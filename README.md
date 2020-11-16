@@ -1,5 +1,7 @@
 # Automate-Tucan
 
+### Note - The script needs to be run once at the beginning to store the content from the url in a .txt file for comparison later. If a student registers for a wahlbereich, a new entry is added to the leistungsspiegel and this will send an email as well. 
+
 ## Project Description
 A python script that sends an e-mail alert when a new grade is available on the website.
 
